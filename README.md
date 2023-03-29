@@ -1,6 +1,8 @@
 # Recipe-App
 
 Using 
-- Typescript
 - Vite
 - React
+- Typescript
+- CSS Modules
+
