@@ -1,6 +1,6 @@
 # Recipe-App
 
-Using 
+Building an SPA (single page application) using: 
 - Vite
 - React
 - Typescript
